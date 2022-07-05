@@ -7,7 +7,7 @@ Mageni publishes this open-source software on Github solely for lawful purposes 
 ## Fair Use
 Mageni publishes this open-source software as fair use of copyrighted work for purposes of education, teaching and research (See 17 U.S.C. § 107). *“fair use is not just excused by the law, it is wholly authorized by the law.”* Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). Mageni is using copyrighted work as authorized by 17 U.S.C. § 107
 
-### DMCA
+### DMCA Policy
 
 If you believe that, according to the DMCA, we are missing something, drop us an email to dmca@mageni.net
 
