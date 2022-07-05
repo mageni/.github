@@ -1,6 +1,12 @@
 ## Thank you, open source
 Mageni uses a lot of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. 
 
+## Legal
+Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
+
+## Fair Use
+Mageni publishes this open-source software as fair use of copyrighted work for purposes of teaching and research (See 17 U.S.C. § 107). Mageni does not sells the open-source software. This software is, and always will be, free and open source.
+
 ### DMCA
 
 If you believe that, according to the DMCA, we are missing something, drop us an email to dmca@mageni.net
@@ -19,9 +25,6 @@ Any person who knowingly materially misrepresents under this section
 ### Free, forever free.
 
 **Mageni does not sells the open source software. This software is, and always will be, free and open source.**
-
-## Legal
-Mageni publishes this open-source software on Github solely for lawful purposes and for education and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
 
 <!--
 
