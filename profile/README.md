@@ -9,7 +9,7 @@ Mageni uses a lot of open source projects and we thank them with all our hearts.
 
 If you believe that, according to the DMCA, we are missing something, drop us an email to dmca@mageni.net
 
-**Please note that the DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) Submitting false information could also result in civil liability — that is, you could get sued for money damages. The DMCA itself provides for damages against any person who knowingly materially misrepresents that material or activity is infringing.**
+**Please note that the DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) Submitting false information could also result in civil liability — that is, you could get sued for money damages. The DMCA itself provides for damages against <i>any</i> person who knowingly materially misrepresents that material or activity is infringing.**
 
 ### Free, forever free.
 
