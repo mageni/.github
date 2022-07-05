@@ -11,6 +11,15 @@ If you believe that, according to the DMCA, we are missing something, drop us an
 
 **Please note that the DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) Submitting false, fraudulent, and bad faith information could also result in civil liability — that is, you could get sued for money damages. The DMCA itself provides for damages against <i>any</i> person who knowingly materially misrepresents that material or activity is infringing.**
 
+The DMCA provides a remedy for bad-faith takedowns, specifically:
+
+Any person who knowingly materially misrepresents under this section
+
+1. that material or activity is infringing, or
+2. that material or activity was removed or disabled by mistake or misidentification, shall be liable for any damages, including costs and attorneys’ fees, incurred by the alleged infringer, by any copyright owner or copyright owner’s authorized licensee, or by a service provider, who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing, or in replacing the removed material or ceasing to disable access to it.
+
+17 U.S.C.A. § 512
+
 ### Free, forever free.
 
 **Mageni does not sells the open source software. This software is, and always will be, free and open source.**
