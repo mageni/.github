@@ -5,7 +5,7 @@ Mageni uses a very large number of open source projects and we thank them with a
 Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
 
 ### Fair Use
-Mageni publishes the open-source software as fair use of copyrighted work for purposes of education, teaching and research (See 17 U.S.C. § 107). *“fair use is not just excused by the law, it is wholly authorized by the law.”* Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). Mageni is using copyrighted source code as authorized by 17 U.S.C. § 107 and the source code is and was publicly available under <a href="https://opensource.org/licenses/alphabetical">open-source licenses</a>
+Mageni publishes the open-source software as fair use of copyrighted work for purposes of education, teaching and research (See 17 U.S.C. § 107). *“fair use is not just excused by the law, it is wholly authorized by the law.”* Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984). Mageni is using copyrighted source code as authorized by 17 U.S.C. § 107 and the source code is and was publicly available under <a href="https://opensource.org/licenses/alphabetical">open-source licenses</a>
 
 ### DMCA Policy
 
