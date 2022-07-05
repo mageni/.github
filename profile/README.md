@@ -5,7 +5,13 @@ We believe cybersecurity must be an enjoyable and uplifting experience to be tru
 ## Thank you, open source
 Mageni uses a lot of open source projects and we thank them with all our hearts. *We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses.* In this repository you will find the <a href="https://github.com/mageni/mageni/tree/master/sbom" target="_blank">Software Bill of Materials (SBOM)</a> and <a href="https://www.mageni.net/opensource" target="_blank">this website</a> has the list of all open source software that Mageni uses and their respective copyrights. 
 
-If you believe that we are missing something, drop us an email to opensource@mageni.net and ASAP we will fix it.
+### DMCA
+
+If you believe that, according to the DMCA, we are missing something, drop us an email to opensource@mageni.net and ASAP we will fix it. 
+
+**Please note that the DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) Submitting false information could also result in civil liability — that is, you could get sued for money damages. The DMCA itself provides for damages against any person who knowingly materially misrepresents that material or activity is infringing.**
+
+### Free, forever free.
 
 **Please note that Mageni does not sells the open source software. This software is, and always will be, free and open source.**
 
