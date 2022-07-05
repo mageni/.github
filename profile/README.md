@@ -13,7 +13,7 @@ If you believe that, according to the DMCA, we are missing something, drop us an
 
 ### Free, forever free.
 
-**Please note that Mageni does not sells the open source software. This software is, and always will be, free and open source.**
+**Mageni does not sells the open source software. This software is, and always will be, free and open source.**
 
 <!--
 
