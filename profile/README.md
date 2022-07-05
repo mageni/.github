@@ -36,7 +36,7 @@ Any person who knowingly materially misrepresents under this section
 
 See 17 U.S.C.A. § 512
 
-### Free, forever free.
+### Free, forever free
 
 Mageni does not sells the open source software. This software is, and always will be, free and open source.
 
