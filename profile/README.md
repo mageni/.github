@@ -26,7 +26,7 @@ Any person who knowingly materially misrepresents under this section
 
 ### Free, forever free.
 
-**Mageni does not sells the open source software. This software is, and always will be, free and open source.**
+Mageni does not sells the open source software. This software is, and always will be, free and open source.
 
 ## Disclaimer
 
