@@ -28,6 +28,10 @@ Any person who knowingly materially misrepresents under this section
 
 **Mageni does not sells the open source software. This software is, and always will be, free and open source.**
 
+## Disclaimer
+
+Mageni did not obtain this code from reverse engineering. All source code is and was publicly available under <a href="https://opensource.org/licenses/alphabetical">open-source licenses</a>
+
 <!--
 
 # About
