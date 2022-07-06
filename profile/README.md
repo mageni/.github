@@ -11,7 +11,7 @@ When using the source code of GPL-covered program, the GPL also grants you "fair
 > it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.**
 > Source: <a href="https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse">https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse</a>
 
-Mageni is using copyrighted source code as authorized by 17 U.S.C. § 107 and the source code is covered by the GPL granting you "fair use" rights. So please feel free to use the software under the terms of the GPL license.
+Mageni is using copyrighted source code as authorized by 17 U.S.C. § 107 and the source code is covered by the GPL granting you "fair use" rights. So please feel free to use the software.
 
 ### DMCA Policy
 
