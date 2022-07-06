@@ -41,8 +41,6 @@ See 17 U.S.C.A. § 512
 ## Legal and Export
 Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority. 
 
-If you use this software you must comply with all U.S. computer security laws, including, without limitation, the Computer Fraud and Abuse Act ("CFAA"), 18 USC Sec. 1030. You also agree to comply with all U.S. export laws (including the International Traffic in Arms Regulation ("ITAR"), 22 CFR 120-130, and the Export Administration Regulation ("EAR"), 15 CFR Parts 730 et seq.) and applicable export Laws of Your locality (if You are not in the United States).
-
 ### Free, forever free
 
 Mageni does not sells the open source software. This software is, and always will be, free and open source.
