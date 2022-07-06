@@ -2,7 +2,7 @@
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. 
 
 ### Fair Use Rights of a GPL-covered Program
-Mageni publishes the open-source software as fair use of copyrighted work for purposes of education, teaching and research (See 17 U.S.C. § 107). *“fair use is not just excused by the law, it is wholly authorized by the law.”* Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). *“[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.”* Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984). 
+Mageni publishes the open-source software as fair use of copyrighted work for purposes of education, teaching and research (See 17 U.S.C. § 107). *“fair use is not just excused by the law, it is wholly authorized by the law.”* Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). *“[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.”* Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984). See Google LLC v. Oracle America, Inc.
 
 When using the source code of GPL-covered program, the GPL also grants you "fair use" rights. 
 
