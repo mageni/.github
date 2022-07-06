@@ -7,8 +7,8 @@ Mageni publishes the open-source software as fair use of copyrighted work for pu
 When using the source code of GPL-covered program, the GPL also grants you "fair use" rights. 
 
 > Do I have “fair use” rights in using the source code of a GPL-covered program?
-> Yes, you do. “Fair use” is use that is allowed without any special permission. Since you don't need the developers' permission for such use, you can do 
-> it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.
+> Yes, you do. “Fair use” is use that is allowed without any special permission. **Since you don't need the developers' permission for such use, you can do 
+> it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.**
 > Source: <a href="https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse">https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse</a>
 
 Mageni is using copyrighted source code as authorized by 17 U.S.C. § 107 and the source code is covered by the GPL granting you "fair use" rights. So please feel free to use the software under the terms of the GPL license.
