@@ -18,7 +18,7 @@ This policy is intended to implement the procedures described in the Title II of
 Notification of alleged infringement should be sent to our designated agent. Upon receipt of notification of claimed infringement, we will follow the procedures to comply with the DMCA.
 
 Legal Department<br />
-Mageni Security<br />
+Mageni Security LLC<br />
 44 South Broadway, STE 100<br />
 White Plains, NY 10601<br />
 Email: dmca@mageni.net
