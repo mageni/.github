@@ -2,7 +2,9 @@
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. 
 
 ## Legal
-Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
+Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority. 
+
+If you use this software you must comply with all U.S. computer security laws, including, without limitation, the Computer Fraud and Abuse Act ("CFAA"), 18 USC Sec. 1030. You also agree to comply with all U.S. export laws (including the International Traffic in Arms Regulation ("ITAR"), 22 CFR 120-130, and the Export Administration Regulation ("EAR"), 15 CFR Parts 730 et seq.) and applicable export Laws of Your locality (if You are not in the United States).
 
 ### Fair Use Rights of a GPL-covered Program
 Mageni publishes the open-source software as fair use of copyrighted work for purposes of education, teaching and research (See 17 U.S.C. § 107). *“fair use is not just excused by the law, it is wholly authorized by the law.”* Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). *“[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.”* Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984). 
