@@ -4,6 +4,18 @@ Mageni uses a very large number of open source projects and we thank them with a
 ## Legal
 Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
 
+### Fair Use Rights of a GPL-covered Program
+Mageni publishes the open-source software as fair use of copyrighted work for purposes of education, teaching and research (See 17 U.S.C. § 107). *“fair use is not just excused by the law, it is wholly authorized by the law.”* Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). *“[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.”* Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984). 
+
+When using the source code of GPL-covered program, the GPL also grants you "fair use" rights. 
+
+> Do I have “fair use” rights in using the source code of a GPL-covered program?
+> Yes, you do. “Fair use” is use that is allowed without any special permission. Since you don't need the developers' permission for such use, you can do 
+> it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.
+> Source: <a href="https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse">https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse</a>
+
+Mageni is using copyrighted source code as authorized by 17 U.S.C. § 107 and it is covered by the GPLv2 granting you a "fair use" rights.
+
 ### DMCA Policy
 
 #### Introduction
