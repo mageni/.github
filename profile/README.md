@@ -38,7 +38,7 @@ Any person who knowingly materially misrepresents under this section
 
 See 17 U.S.C.A. § 512
 
-## Legal and Export
+## Legal
 Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority. 
 
 ### Free, forever free
