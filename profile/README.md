@@ -9,7 +9,7 @@ When using the source code of GPL-covered program, the **GPL grants you "fair us
 > it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.**
 > Source: <a href="https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse">https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse</a>
 
-According to the GPL and the Supreme Court, you can exercise your fair use rights to sell copies of the software. Please see the Supreme Court case of <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a> and the <a href="https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowMoney">answer of the GPL</a> 
+According to the GPL and the Supreme Court, you can exercise your fair use rights to distributing free software for a fee. Please see the Supreme Court case of <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a> and the <a href="https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowMoney">answer of the GPL</a> 
 
 > “fair use is not just excused by the law, it is wholly authorized by the law.” Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).
 
@@ -48,14 +48,3 @@ Mageni publishes this open-source software on Github solely for lawful purposes 
 ### Free, forever free
 
 Mageni does not sells the open source software. This software is, and always will be, free and open source and is provided to you under the terms of the GPL license.
-
-<!--
-
-# About
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
