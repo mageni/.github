@@ -43,7 +43,7 @@ Mageni publishes this open-source software on Github solely for lawful purposes 
 
 ### Free, forever free
 
-Mageni does not sells the open source software. This software is, and always will be, free and open source.
+Mageni does not sells the open source software. This software is, and always will be, free and open source and is provided to you under the terms of the GPL license.
 
 <!--
 
