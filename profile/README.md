@@ -33,7 +33,7 @@ Mageni Security LLC<br />
 White Plains, NY 10601<br />
 Email: opensource@mageni.net
 
-Before sending any notifications please be aware that, according to the law, "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)." Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).  Mageni is using GPL software which grants "fair use" rights to the users of a GPL-covered program.
+**Before sending any notifications please be aware that, according to the law, "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)."** Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).  Mageni is using GPL software which grants "fair use" rights to the users of a GPL-covered program.
 
 > Do I have “fair use” rights in using the source code of a GPL-covered program?
 > **Yes, you do. “Fair use” is use that is allowed without any special permission. Since you don't need the developers' permission for such use, you can do 
