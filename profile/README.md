@@ -56,7 +56,7 @@ Any person who knowingly materially misrepresents under this section
 
 See 17 U.S.C.A. § 512
 
-So please be aware, if you submit false, fraudulent, and bad faith information it could also result in civil liability — that is, you could get sued and you could be fined or imprisoned not more than five years, or both.
+So please be aware, if you submit false, fraudulent, and bad faith information you could get sued and you could be fined or imprisoned not more than five years, or both.
 
 ## Legal
 Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority. 
