@@ -49,7 +49,7 @@ This policy is intended to implement the procedures described in the Title II of
 
 #### Before sending any notifications
 
-**Before sending any notifications please be aware that, according to the law, "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)."** Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). On GitHub you will find that Mageni is only using software covered by free software licenses which grant "fair use" rights.
+**Before sending any notifications please be aware that, according to the law, "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)."** Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). On GitHub you will find that Mageni is using only software covered by free software licenses which grant "fair use" rights.
 
 > Do I have “fair use” rights in using the source code of a GPL-covered program?
 > **Yes, you do. “Fair use” is use that is allowed without any special permission. Since you don't need the developers' permission for such use, you can do 
@@ -59,7 +59,6 @@ This policy is intended to implement the procedures described in the Title II of
 > **if a copyright holder ignores or neglects our unequivocal holding that it must consider fair use before sending a takedown notification, it is liable for  damages under § 512(f).** A copyright holder who pays  lip service to the consideration of fair use by claiming it formed a good faith belief when there is evidence to the contrary is still subject to §  512(f) liability. Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).
 
 One of the most famous cases of fair use is <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a>, Mageni complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority. 
-
 
 #### Designated Agent
 
