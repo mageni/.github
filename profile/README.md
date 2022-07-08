@@ -5,6 +5,26 @@ Mageni is a free and open-source vulnerability scanner full of delightful featur
 ## Thank you, open source
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. 
 
+## Licenses, Fair Use and DMCA
+You are probably reading this because you want to use some code from GitHub, but you have questions about its license. This document provides some background information to consider. We assume the perspective of U.S. law, but it's mostly the same everywhere. We won't cover jurisdictional differences like moral rights. 
+
+### What's a Copyright?
+Copyright is a bundle of statutory <a href="https://www.law.cornell.edu/uscode/text/17/106">rights</a> created by U.S. Congress.
+
+Copyright protection can subsist in original works of authorship fixed in any tangible medium of expression. When someone makes code publicly available in any form, including GitHub, that code may be protected by copyright.
+
+Generally, you should use code under licenses which explicitly give you relevant permissions. Ambiguity about what you can do with code can cause unwanted confusion and make open source difficult to use. In order to avoid any kind of ambiguity, on this document Mageni makes clarifications based on U.S. law.
+
+### Three rights to consider
+
+Three important rights for an open source license to address are:
+
+- the right to make copies (also known as reproduction),
+- the right to modify and adapt (also known as the right to make derivative works),
+- the right to distribute the original and modifications.
+
+Open source projects function best when there is no ambiguity over the rights to the code. Mageni provides to you a free and open-source vulnerability scanner with no ambiguities over your rights to use the code.
+
 ### Fair Use Rights of a GPL-covered Program
 When using the source code of GPL-covered program, the **GPL grants you "fair use" rights** (See 17 U.S.C. § 107). 
 
@@ -29,7 +49,7 @@ This policy is intended to implement the procedures described in the Title II of
 
 #### Before sending any notifications
 
-**Before sending any notifications please be aware that, according to the law, "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)."** Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).  Mageni is using GPL software which grants "fair use" rights not only to Mageni but to all the users of a GPL-covered program.
+**Before sending any notifications please be aware that, according to the law, "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)."** Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016). On GitHub you will find that Mageni is only using software covered by free software licenses which grant "fair use" rights.
 
 > Do I have “fair use” rights in using the source code of a GPL-covered program?
 > **Yes, you do. “Fair use” is use that is allowed without any special permission. Since you don't need the developers' permission for such use, you can do 
@@ -61,6 +81,6 @@ Any person who knowingly materially misrepresents under this section
 ## Legal
 Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority. 
 
-### Free, forever free
+## Free, forever free
 
 Mageni does not sells the open source software. This software is, and always will be, free and open source and is provided to you under the terms of the GPL license.
