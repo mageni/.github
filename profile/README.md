@@ -39,18 +39,15 @@ Open source projects function best when there is no ambiguity over the rights to
 ### Fair Use Rights of a GPL-covered Program
 When using the source code of GPL-covered program, the **GPL grants you "fair use" rights** (See 17 U.S.C. § 107). 
 
-> Do I have “fair use” rights in using the source code of a GPL-covered program?
-> Yes, you do. “Fair use” is use that is allowed without any special permission. **Since you don't need the developers' permission for such use, you can do 
-> it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.**
-> Source: <a href="https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse">https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse</a>
-
-According to the GPL and the Supreme Court, you can exercise your fair use rights to distributing free software for a fee. Please see the Supreme Court case of <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a> and the <a href="https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowMoney">answer of the GPL</a> Google v. Oracle has been hailed as a “huge win for developers and consumers,” not to mention a “win for innovation” more broadly and this case’s holding will “provide[] breathing room” to software developers employing similar strategies to create their products. Mageni is employing a similar strategy to create the vulnerability scanner. 
+> Do I have “fair use” rights in using the source code of a GPL-covered program? Yes, you do. “Fair use” is use that is allowed without any special permission. **Since you don't need the developers' permission for such use, you can do it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.**  Source: <a href="https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse">https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse</a>
 
 > “fair use is not just excused by the law, it is wholly authorized by the law.” Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).
 
 > “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984).
 
-The 17 U.S.C. § 102 states that the copyright protection cannot be extended to “any idea, procedure, process, system, method of operation, concept, principle, or discovery ....” Mageni is exercising its fair use rights as authorized by 17 U.S.C. § 107 and uses the code of GPL-covered programs in a transformative way.
+According to the GPL and the Supreme Court, you can exercise your fair use rights to distributing free software for a fee. Please see the Supreme Court case of <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a> and the <a href="https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowMoney">answer of the GPL</a> Google v. Oracle has been hailed as a “huge win for developers and consumers,” not to mention a “win for innovation” more broadly and this case’s holding will “provide[] breathing room” to software developers employing similar strategies to create their products. 
+
+While restricting the rights of copyright holders, the Court’s approach to Google v. Oracle took an important step to further the constitutional goal of copyright law: to “promote the Progress of Science and useful Arts." (U.S. CONST. art. 1, § 8, cl. 8.) The 17 U.S.C. § 102 states that the copyright protection cannot be extended to “any idea, procedure, process, system, method of operation, concept, principle, or discovery ....” Mageni is exercising its fair use rights as authorized by 17 U.S.C. § 107, uses the code of GPL-covered programs in a transformative way and in order to be fully compliant with the laws and free software licenses is employing the same strategy that Google employed. 
 
 ### DMCA Policy
 
