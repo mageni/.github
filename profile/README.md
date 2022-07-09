@@ -76,8 +76,6 @@ One of the most famous cases of fair use is <a href="https://www.supremecourt.go
 
 > “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984).
 
-Mageni complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority. 
-
 #### Designated Agent
 
 Notification of alleged infringement should be sent to our designated agent. Upon receipt of notification of claimed infringement, we will follow the procedures to comply with the DMCA.
