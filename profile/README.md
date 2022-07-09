@@ -6,7 +6,7 @@ Mageni is a free and open-source vulnerability scanner full of delightful featur
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. 
 
 ## Licenses, Fair Use and DMCA
-You are probably reading this because you want to use some code, but you have questions about its license. Here is some background information to consider from the perspective of U.S. law, but it's mostly the same everywhere. We won't cover jurisdictional differences like moral rights. 
+You are probably reading this because you want to use the code, but you have questions about its license. Here is some background information to consider from the perspective of U.S. law, but it's mostly the same everywhere. We won't cover jurisdictional differences like moral rights. 
 
 ### What's a Copyright?
 Copyright is a bundle of statutory <a href="https://www.law.cornell.edu/uscode/text/17/106">rights</a> created by U.S. Congress.
