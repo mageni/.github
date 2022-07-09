@@ -47,7 +47,7 @@ When using the source code of GPL-covered program, the **GPL grants you "fair us
 
 According to the GPL and the Supreme Court, you can exercise your fair use rights to distributing free software for a fee. Please see the Supreme Court case of <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a> and the <a href="https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowMoney">answer of the GPL</a> Google v. Oracle has been hailed as a “huge win for developers and consumers,” not to mention a “win for innovation” more broadly and this case’s holding will “provide[] breathing room” to software developers employing similar strategies to create their products. 
 
-While restricting the rights of copyright holders, the Court’s approach to Google v. Oracle took an important step to further the constitutional goal of copyright law: to “promote the Progress of Science and useful Arts." (U.S. CONST. art. 1, § 8, cl. 8.) Mageni is exercising its fair use rights as authorized by 17 U.S.C. § 107, uses the code of GPL-covered programs in a transformative way, and is employing the same strategy that Google employed in Google v. Oracle
+While restricting the rights of copyright holders, the Court’s approach to Google v. Oracle took an important step to further the constitutional goal of copyright law: to “promote the Progress of Science and useful Arts." (U.S. CONST. art. 1, § 8, cl. 8.) Mageni certifies that is exercising its fair use rights as authorized by 17 U.S.C. § 107, uses the code of GPL-covered programs in a transformative way, and is employing the same strategy that Google employed in Google v. Oracle
 
 ### DMCA Policy
 
