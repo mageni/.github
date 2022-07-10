@@ -1,7 +1,7 @@
 # Table of Contents
 1. [Introduction](#introduction)
 2. [The Cost of Cybercrime](#the-cost-of-cybercrime)
-3. [What problem does Mageni help you to solve?](#what-problem-does-mageni-help-you-to-solve)
+3. [What problem does Mageni solve?](#what-problem-does-mageni-solve)
 4. [About Mageni](#about-mageni)
 5. [Thank you, open source](#thank-you-open-source)
 6. [Legal, Copyrights, DMCA, and Fair Use](#legal-copyrights-dmca-and-fair-use)
@@ -14,7 +14,7 @@ Mageni is passionate about solving the world's toughest and most complex problem
 
 Mageni is helping to reduce cybercrime. If it were measured as a country, then cybercrime — which is predicted to inflict damages totaling $6 trillion USD globally in 2021 — would be the world’s third-largest economy after the U.S. and China (Cybersecurity Ventures)
 
-### What problem does Mageni help you to solve?
+### What problem does Mageni solve?
 
 - **Unpatched and exposed services** account for 82% of successful attack (Tetra Defense)
 - 60% of breach victims were breached due to an **unpatched known vulnerability** (Ponemom Institute)
