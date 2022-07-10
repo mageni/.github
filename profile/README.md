@@ -16,7 +16,7 @@ Copyright protection can subsist in original works of authorship fixed in any ta
 Generally, you should use code under licenses which explicitly give you relevant permissions. Ambiguity about what you can do with code can cause unwanted confusion and make open source difficult to use. In order to avoid any kind of ambiguity, on this document Mageni makes clarifications based on the law.
 
 ### What's DMCA?
-The Digital Millennium Copyright Act—or DMCA—is a US federal copyright law that was introduced in 1998. The DMCA protects the rights of both, copyright holders and the users of the copyrighted material. According to the DMCA "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)." Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016) and when using the source code of GPL-covered program, the GPL grants you "fair use" rights (See 17 U.S.C. § 107).
+The Digital Millennium Copyright Act—or DMCA—is a US federal copyright law that was introduced in 1998. The DMCA protects the rights of both, copyright holders and the users of the copyrighted material. According to the DMCA "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)." Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016), and when using the source code of a GPL-covered program, the GPL grants you "fair use" rights (See 17 U.S.C. § 107).
 
 > Do I have “fair use” rights in using the source code of a GPL-covered program? Yes, you do. “Fair use” is use that is allowed without any special permission. **Since you don't need the developers' permission for such use, you can do it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.** Source: <a href="https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse">https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse</a>
 
@@ -34,7 +34,7 @@ Open source projects function best when there is no ambiguity over the rights to
 - the right to modify and adapt (also known as the right to make derivative works),
 - the right to distribute the original and modifications.
 
-Mageni provides to you a free and open-source software covered by free software licenses, with no ambiguities over your rights to use the code.
+Mageni provides you free and open-source software covered by free software licenses, with no ambiguities over your rights to use the code.
 
 ### Fair Use Rights of a GPL-covered Program
 When using the source code of GPL-covered program, the **GPL grants you "fair use" rights** (See 17 U.S.C. § 107). 
@@ -45,15 +45,15 @@ When using the source code of GPL-covered program, the **GPL grants you "fair us
 
 > “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984).
 
-According to the GPL and the Supreme Court, you can exercise your fair use rights to distributing free software for a fee. Please see the Supreme Court case of <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a> and the <a href="https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowMoney">answer of the GPL</a> Google v. Oracle has been hailed as a “huge win for developers and consumers,” not to mention a “win for innovation” more broadly and this case’s holding will “provide breathing room” to software developers employing similar strategies to create their products. (Michael Barclay, Victory for Fair Use: The Supreme Court Reverses the Federal Circuit in Oracle v. Google, ELEC. FRONTIER FOUND. (Apr. 5, 2021))
+According to the GPL and the Supreme Court, you can exercise your fair use rights to distribute free software for a fee. Please see the Supreme Court case of <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a> and the <a href="https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowMoney">answer of the GPL</a> Google v. Oracle has been hailed as a “huge win for developers and consumers,” not to mention a “win for innovation” more broadly and this case’s holding will “provide breathing room” to software developers employing similar strategies to create their products. (Michael Barclay, Victory for Fair Use: The Supreme Court Reverses the Federal Circuit in Oracle v. Google, ELEC. FRONTIER FOUND. (Apr. 5, 2021))
 
-While restricting the rights of copyright holders, the Court’s approach to Google v. Oracle took an important step to further the constitutional goal of copyright law: to “promote the Progress of Science and useful Arts." (U.S. CONST. art. 1, § 8, cl. 8.) Mageni has completed extensive audits to cerfify that exercises its fair use rights as authorized by 17 U.S.C. § 107
+While restricting the rights of copyright holders, the Court’s approach to Google v. Oracle took an important step to further the constitutional goal of copyright law: to “promote the Progress of Science and useful Arts." (U.S. CONST. art. 1, § 8, cl. 8.) Mageni has completed extensive audits to certify that exercises its fair use rights as authorized by 17 U.S.C. § 107
 
 ### DMCA Policy
 
 #### Introduction
 
-Mageni uses a very large number of open source projects and we understand that there's always a posibility that a programmer impelmented copyrighted code which is not covered by a free software license. In that case, this policy is intended to implement the procedures described in the Title II of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (DMCA) for the reporting of alleged copyright infringement. It is the policy of Mageni to respect the legitimate rights of copyrights owners, their agents and representatives. Mageni respects the legal protections provided by applicable copyright law. 
+Mageni uses a very large number of open source projects and we understand that there's always a possibility that a programmer implemented copyrighted code that is not covered by a free software license. In that case, this policy is intended to implement the procedures described in the Title II of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (DMCA) for the reporting of alleged copyright infringement. It is the policy of Mageni to respect the legitimate rights of copyright owners, their agents, and representatives. Mageni respects the legal protections provided by applicable copyright law. 
 
 #### Before sending any notifications
 
