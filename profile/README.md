@@ -4,7 +4,7 @@
 3. [What problem does Mageni help you to solve?](#what-problem-does-mageni-help-you-to-solve)
 4. [About Mageni](#about-mageni)
 5. [Thank you, open source](#thank-you-open-source)
-6. [Licenses, Fair Use and DMCA](licenses-fair-use-and-dmca)
+6. [Legal, DMCA and Fair Use](#legal-dmca-and-fair-use)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Mageni provides a free and open-source vulnerability scanner full of delightful 
 ## Thank you, open source
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. We also hope that this software will help to reduce cybercrime and to protect others from cyber threats.
 
-## Licenses, Fair Use and DMCA
+## Legal, DMCA and Fair Use
 You are probably reading this because you want to use the code, but you have questions about its license. Here is some background information to consider from the perspective of U.S. law, but it's mostly the same everywhere. We won't cover jurisdictional differences like moral rights. 
 
 ### What's a Copyright?
@@ -114,7 +114,7 @@ Any person who knowingly materially misrepresents under this section
 1. that material or activity is infringing, or
 2. that material or activity was removed or disabled by mistake or misidentification, shall be liable for any damages, including costs and attorneys’ fees, incurred by the alleged infringer, by any copyright owner or copyright owner’s authorized licensee, or by a service provider, who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing, or in replacing the removed material or ceasing to disable access to it.
 
-## Legal
+## Applicable Laws
 Mageni publishes this open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
 
 ## Mageni helps to reduce climate change
