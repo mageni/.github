@@ -53,7 +53,7 @@ Mageni has completed extensive audits to certify that exercises its fair use rig
 
 #### Introduction
 
-Mageni uses a very large number of open source projects and we understand that there's always a possibility that a programmer from one of those open source projects implemented copyrighted code that is not covered by a free software license. In that case, this policy is intended to implement the procedures described in the Title II of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (DMCA) for the reporting of alleged copyright infringement. It is the policy of Mageni to respect the legitimate rights of copyright owners, their agents, and representatives. Mageni respects the legal protections provided by applicable copyright law. 
+Mageni uses a very large number of open source projects and we understand that there's always a possibility that a programmer from one of those open source projects implemented copyrighted code that is not covered by a free software license. In that case, this policy is intended to swiftly implement the procedures described in the Title II of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (DMCA) for the reporting of alleged copyright infringement and will remove the offeding code from its repository. It is the policy of Mageni to respect the legitimate rights of copyright owners, their agents, and representatives. Mageni respects the legal protections provided by applicable copyright law and this also helps Mageni to protect the rights of the users of the open-source software that provides.
 
 #### Before sending any notifications
 
