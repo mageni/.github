@@ -28,13 +28,13 @@ All the code published by Mageni on GitHub is GPL-covered and/or by any other fr
 
 ### Three rights to consider
 
-Three important rights for an open source license to address are:
+Open source projects function best when there is no ambiguity over the rights to the code. Three important rights for an open source license to address are:
 
 - the right to make copies (also known as reproduction),
 - the right to modify and adapt (also known as the right to make derivative works),
 - the right to distribute the original and modifications.
 
-Open source projects function best when there is no ambiguity over the rights to the code. Mageni provides to you a free and open-source software covered by the GPL, with no ambiguities over your rights to use the code.
+Mageni provides to you a free and open-source software covered by free software licenses, with no ambiguities over your rights to use the code.
 
 ### Fair Use Rights of a GPL-covered Program
 When using the source code of GPL-covered program, the **GPL grants you "fair use" rights** (See 17 U.S.C. § 107). 
