@@ -11,28 +11,7 @@ Mageni is passionate about solving the world's toughest and most complex problem
 
 ### About Mageni
 
-Mageni provides a free and open-source vulnerability scanner full of delightful features. We believe cybersecurity must be an enjoyable and uplifting experience to be truly fulfilling in your life. Mageni empowers you to identify, prioritize, and respond to vulnerabilities, risky services and misconfigurations before they are exploited by hackers. Mageni is accessible, powerful, and will save you time, money, and resources while reducing the risk of non-compliance, financial losses, fines, and data breaches
-
-Mageni eases for you the vulnerability management cycle and takes the discomfort, angst and pain out of cybersecurity by easing simple tasks for vulnerability management, such as:
-
-- Asset Discovery
-- Prioritize Assets
-- Vulnerability Scanning
-- Vulnerability Assessment
-- Reporting
-- Remediation
-- Vulnerability Prioritization
-- Vulnerability Validation
-- Compliance Testing (PCI DSS, NIST, HIPAA, ISO, NERC, FISMA, NIS)
-- Penetration Testing
-- Security Audits
-- And more ...
-
-This is what it currently looks like:
-
-<p align="center">
-    <img src="https://www.mageni.net/assets/img/macbook.jpeg" width="600" style="padding-top:10px;">
-</p>
+Mageni provides a free and open-source vulnerability scanner full of delightful features. We believe cybersecurity must be an enjoyable and uplifting experience to be truly fulfilling in your life. Mageni empowers you to identify, prioritize, and respond to vulnerabilities, risky services and misconfigurations before they are exploited by hackers. 
 
 ## Thank you, open source
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. We also hope that this software will help to reduce cybercrime and to protect others from cyber threats.
