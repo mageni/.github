@@ -53,7 +53,7 @@ While restricting the rights of copyright holders, the Court’s approach to Goo
 
 #### Introduction
 
-This policy is intended to implement the procedures described in the Title II of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (DMCA) for the reporting of alleged copyright infringement. It is the policy of Mageni to respect the legitimate rights of copyrights owners, their agents and representatives. Mageni respects the legal protections provided by applicable copyright law. 
+Mageni uses a very large number of open source projects and we understand that there's always a posibility that a programmer impelmented copyrighted code which is not covered by a free software license. In that case, this policy is intended to implement the procedures described in the Title II of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (DMCA) for the reporting of alleged copyright infringement. It is the policy of Mageni to respect the legitimate rights of copyrights owners, their agents and representatives. Mageni respects the legal protections provided by applicable copyright law. 
 
 #### Before sending any notifications
 
