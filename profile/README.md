@@ -4,7 +4,7 @@
 3. [What problem does Mageni help you to solve?](#what-problem-does-mageni-help-you-to-solve)
 4. [About Mageni](#about-mageni)
 5. [Thank you, open source](#thank-you-open-source)
-6. [Legal, DMCA and Fair Use](#legal-dmca-and-fair-use)
+6. [Legal, Copyrights, DMCA, and Fair Use](#legal-copyrights-dmca-and-fair-use)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Mageni provides a free and open-source vulnerability scanner full of delightful 
 ## Thank you, open source
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. We also hope that this software will help to reduce cybercrime and to protect others from cyber threats.
 
-## Legal, DMCA and Fair Use
+## Legal, Copyrights, DMCA, and Fair Use
 You are probably reading this because you want to use the code, but you have questions about its license. Here is some background information to consider from the perspective of U.S. law, but it's mostly the same everywhere. We won't cover jurisdictional differences like moral rights. 
 
 ### What's a Copyright?
