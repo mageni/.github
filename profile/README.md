@@ -16,7 +16,7 @@ Copyright protection can subsist in original works of authorship fixed in any ta
 Generally, you should use code under licenses which explicitly give you relevant permissions. Ambiguity about what you can do with code can cause unwanted confusion and make open source difficult to use. In order to avoid any kind of ambiguity, on this document Mageni makes clarifications based on the law.
 
 ### What's DMCA?
-The Digital Millennium Copyright Act—or DMCA—is a US federal copyright law that was introduced in 1998. The DMCA protects the rights of both, copyright holders and the users of the copyrighted material. According to the DMCA "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)." Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016) and when using the source code of GPL-covered program, the GPL grants you "fair use" rights (See 17 U.S.C. § 107). All the code published by Mageni on GitHub is GPL-covered and is lawfully used as authorized by 17 U.S.C. § 107.
+The Digital Millennium Copyright Act—or DMCA—is a US federal copyright law that was introduced in 1998. The DMCA protects the rights of both, copyright holders and the users of the copyrighted material. According to the DMCA "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)." Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016) and when using the source code of GPL-covered program, the GPL grants you "fair use" rights (See 17 U.S.C. § 107).
 
 > Do I have “fair use” rights in using the source code of a GPL-covered program? Yes, you do. “Fair use” is use that is allowed without any special permission. **Since you don't need the developers' permission for such use, you can do it regardless of what the developers said about it—in the license or elsewhere, whether that license be the GNU GPL or any other free software license.** Source: <a href="https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse">https://www.gnu.org/licenses/gpl-faq.en.html#GPLFairUse</a>
 
@@ -24,7 +24,7 @@ The Digital Millennium Copyright Act—or DMCA—is a US federal copyright law t
 
 > “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984).
 
-So feel free to use the code.
+All the code published by Mageni on GitHub is GPL-covered and/or by any other free software license and is lawfully used as authorized by 17 U.S.C. § 107. So feel free to use the code.
 
 ### Three rights to consider
 
