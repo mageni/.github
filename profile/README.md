@@ -1,3 +1,11 @@
+# Table of Contents
+1. [Introduction](#introduction)
+2. [The Cost of Cybercrime](#the-cost-of-cybercrime)
+3. [What problem does Mageni help you to solve?](#what-problem-does-mageni-help-you-to-solve)
+4. [About Mageni](#about-mageni)
+5. [Thank you, open source](#thank-you-open-source)
+6. [Licenses, Fair Use and DMCA](licenses-fair-use-and-dmca)
+
 ## Introduction
 
 Mageni is passionate about solving the world's toughest and most complex problems using open-source. 
