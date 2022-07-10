@@ -2,6 +2,10 @@
 
 Mageni is passionate about solving the world's toughest and most complex problems using open-source. 
 
+### The Cost of Cybercrime
+
+Mageni is helping to reduce cybercrime. If it were measured as a country, then cybercrime — which is predicted to inflict damages totaling $6 trillion USD globally in 2021 — would be the world’s third-largest economy after the U.S. and China (Cybersecurity Ventures)
+
 ### What problem does Mageni help you to solve?
 
 - **Unpatched and exposed services** account for 82% of successful attack (Tetra Defense)
