@@ -63,7 +63,7 @@ According to the DMCA "a copyright holder must consider the existence of fair us
 
 > “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984).
 
-All the code published by Mageni on GitHub is GPL-covered and/or by other free software license and is lawfully and rightfully used as "fair use" as authorized by 17 U.S.C. § 107. The GPL and the open source licenses extend the same "fair use" rights to you, so feel free to use the code.
+All the code published by Mageni on GitHub is GPL-covered and/or by other free software licenses and is lawfully and rightfully used as "fair use" as authorized by 17 U.S.C. § 107. The GPL and the open source licenses extend the same "fair use" rights to you, so feel free to use the code.
 
 ### Three rights to consider
 
