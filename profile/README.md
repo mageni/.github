@@ -14,7 +14,7 @@ Mageni is passionate about solving the world's toughest and most complex problem
 
 ### The Cost of Cybercrime
 
-If it were measured as a country, then cybercrime — which is predicted to inflict damages totaling $6 trillion USD globally in 2021 — would be the world’s third-largest economy after the U.S. and China and by 2025 cybercrime will cost to the world $10.5 trillion annually (Cybersecurity Ventures)
+If it were measured as a country, then cybercrime — which is predicted to inflict damages totaling $10.5 trillion USD globally in 2025 — would be the world’s third-largest economy after the U.S. and China (Cybersecurity Ventures). 
 
 ### What problem does Mageni solve?
 
