@@ -49,8 +49,19 @@ Generally, you should use code under licenses which explicitly give you relevant
 ### What's a Open Source License?
 Open source licenses are licenses that comply with the Open Source Definition — in brief, they allow software to be freely used, modified, and shared. To be approved by the Open Source Initiative (also known as the OSI), a license must go through the Open Source Initiative's license review process.
 
+### Four rights to consider
+
+Open source projects function best when there is no ambiguity over the rights to the code. Four important rights for an open source license to address are:
+
+- the right to make copies (also known as reproduction),
+- the right to modify and adapt (also known as the right to make derivative works),
+- the right to distribute the original and modifications.
+- the fair use rights
+
+Mageni provides you free and open-source software covered by free software licenses, with no ambiguities over your rights to use the code.
+
 ### What's DMCA?
-The Digital Millennium Copyright Act—or DMCA—is a US federal copyright law that was introduced in 1998. The DMCA protects the rights of both, copyright holders and the users of the copyrighted material. 
+The Digital Millennium Copyright Act—or DMCA—is a US federal copyright law that was introduced in 1998. The DMCA protects the rights of both, copyright holders and the users of the copyrighted material.
 
 ### If I copy the code, will you send me a DMCA takedown notification?
 No. Mageni can not and will not send you a DMCA takedown notification. 
@@ -64,16 +75,6 @@ According to the DMCA "a copyright holder must consider the existence of fair us
 > “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984).
 
 All the code published by Mageni on GitHub is GPL-covered and/or by other free software licenses and is lawfully and rightfully used as "fair use" as authorized by 17 U.S.C. § 107. The GPL and the open source licenses extend the same "fair use" rights to you, so feel free to use the code.
-
-### Three rights to consider
-
-Open source projects function best when there is no ambiguity over the rights to the code. Three important rights for an open source license to address are:
-
-- the right to make copies (also known as reproduction),
-- the right to modify and adapt (also known as the right to make derivative works),
-- the right to distribute the original and modifications.
-
-Mageni provides you free and open-source software covered by free software licenses, with no ambiguities over your rights to use the code.
 
 ### The Supreme Court and Fair Use Rights
 <a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Google LLC v. Oracle America, Inc</a> is a fair use case that has has been hailed as a “huge win for developers and consumers,” not to mention a “win for innovation” more broadly and this case’s holding will “provide breathing room” to software developers employing similar strategies to create their products. (Michael Barclay, Victory for Fair Use: The Supreme Court Reverses the Federal Circuit in Oracle v. Google, ELEC. FRONTIER FOUND. (Apr. 5, 2021)) While restricting the rights of copyright holders, the Supreme Court’s approach to Google v. Oracle took an important step to further the constitutional goal of copyright law: to “promote the Progress of Science and useful Arts." (U.S. CONST. art. 1, § 8, cl. 8.) 
