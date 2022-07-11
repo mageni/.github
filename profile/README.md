@@ -56,7 +56,7 @@ Open source projects function best when there is no ambiguity over the rights to
 - the right to make copies (also known as reproduction),
 - the right to modify and adapt (also known as the right to make derivative works),
 - the right to distribute the original and modifications.
-- the fair use rights
+- the right to fair use a copyrighted source code
 
 Mageni provides you free and open-source software covered by free software licenses, with no ambiguities over your rights to use the code.
 
