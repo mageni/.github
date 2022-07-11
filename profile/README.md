@@ -52,8 +52,8 @@ Open source licenses are licenses that comply with the Open Source Definition �
 ### What's DMCA?
 The Digital Millennium Copyright Act—or DMCA—is a US federal copyright law that was introduced in 1998. The DMCA protects the rights of both, copyright holders and the users of the copyrighted material. 
 
-### If I copy this code, will you send me a DMCA takedown notification?
-No. 
+### If I copy the code, will you send me a DMCA takedown notification?
+No. Mageni can not and will not send you a DMCA takedown notification. 
 
 According to the DMCA "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)." Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016), and when using the source code of a GPL-covered program, the GPL grants you "fair use" rights (See 17 U.S.C. § 107).
 
