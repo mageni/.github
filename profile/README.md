@@ -44,7 +44,7 @@ Copyright is a bundle of statutory <a href="https://www.law.cornell.edu/uscode/t
 
 Copyright protection can subsist in original works of authorship fixed in any tangible medium of expression. When someone makes code publicly available in any form, including GitHub, that code may be protected by copyright.
 
-Generally, you should use code under licenses which explicitly give you relevant permissions. Ambiguity about what you can do with code can cause unwanted confusion and make open source difficult to use. In order to avoid any kind of ambiguity, on this document Mageni makes clarifications based on the law.
+Generally, you should use code under licenses which explicitly give you relevant permissions. Ambiguity about what you can do with code can cause unwanted confusion and make open source difficult to use. In order to avoid any kind of ambiguity, on this document Mageni makes clarifications based on U.S. law.
 
 ### What's a Open Source License?
 Open source licenses are licenses that comply with the Open Source Definition — in brief, they allow software to be freely used, modified, and shared. To be approved by the Open Source Initiative (also known as the OSI), a license must go through the Open Source Initiative's license review process.
