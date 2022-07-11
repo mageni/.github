@@ -3,8 +3,10 @@
 2. [The Cost of Cybercrime](#the-cost-of-cybercrime)
 3. [What problem does Mageni solve?](#what-problem-does-mageni-solve)
 4. [About Mageni](#about-mageni)
-5. [Thank you, open source](#thank-you-open-source)
-6. [Legal, Copyrights, DMCA, and Fair Use](#legal-copyrights-dmca-and-fair-use)
+5. [Mission](#mission)
+6. [Vision](#vision)
+7. [Thank you, open source](#thank-you-open-source)
+8. [Legal, Copyrights, DMCA, and Fair Use](#legal-copyrights-dmca-and-fair-use)
 
 ## Introduction
 
@@ -12,7 +14,7 @@ Mageni is passionate about solving the world's toughest and most complex problem
 
 ### The Cost of Cybercrime
 
-Mageni is helping to reduce cybercrime. If it were measured as a country, then cybercrime — which is predicted to inflict damages totaling $6 trillion USD globally in 2021 — would be the world’s third-largest economy after the U.S. and China and by 2025 cybercrime will cost to the world $10.5 trillion annually (Cybersecurity Ventures)
+If it were measured as a country, then cybercrime — which is predicted to inflict damages totaling $6 trillion USD globally in 2021 — would be the world’s third-largest economy after the U.S. and China and by 2025 cybercrime will cost to the world $10.5 trillion annually (Cybersecurity Ventures)
 
 ### What problem does Mageni solve?
 
@@ -24,6 +26,12 @@ Mageni is helping to reduce cybercrime. If it were measured as a country, then c
 ### About Mageni
 
 Mageni provides a free and open-source vulnerability scanner full of delightful features. We believe cybersecurity must be an enjoyable and uplifting experience to be truly fulfilling in your life. Mageni empowers you to identify, prioritize, and respond to vulnerabilities, risky services and misconfigurations before they are exploited by hackers. 
+
+### Mission
+Mageni's mission is to make your life more enjoyable and peaceful by providing you with a wonderful vulnerability management platform that helps you to avoid becoming a victim of cybercrime.
+
+### Vision
+We envision a world where cybersecurity and vulnerability management is an enjoyable and uplifting experience that is truly fulfilling in your life.
 
 ## Thank you, open source
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. We also hope that this software will help to reduce cybercrime and to protect others from cyber threats.
