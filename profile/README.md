@@ -37,7 +37,7 @@ We envision a world where cybersecurity and vulnerability management is an enjoy
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. We also hope that this software will help to reduce cybercrime and to protect others from cyber threats.
 
 ## Legal, Copyrights, DMCA, and Fair Use
-You are probably reading this because you want to use the code, but you have questions about its license. The DMCA is a U.S federal law and the Copyrights is a bundle of statutory rights created by the U.S. Congress. So here is some background information to consider from the perspective of U.S. law.
+You are probably reading this because you want to use the code, but you have questions about its license. The DMCA is a U.S federal law and the Copyrights is a bundle of statutory rights created by the U.S. Congress. So here is some background information for you to consider from the perspective of U.S. law.
 
 ### What's a Copyright?
 Copyright is a bundle of statutory <a href="https://www.law.cornell.edu/uscode/text/17/106">rights</a> created by U.S. Congress.
