@@ -36,6 +36,8 @@ We envision a world where cybersecurity and vulnerability management is an enjoy
 ## Thank you, open source
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. We also hope that this software will help to reduce cybercrime and to protect others from cyber threats.
 
+Mageni is an important open source contribution to the upstream projects as it provides a moderm web interface and EDA which was really missing to the open source community.
+
 ## Legal, Copyrights, DMCA, and Fair Use
 You are probably reading this because you want to use the code, but you have questions about its license. The DMCA is a U.S. federal law and the Copyrights is a bundle of statutory rights created by the U.S. Congress. So here is some background information for you to consider from the perspective of U.S. law.
 
