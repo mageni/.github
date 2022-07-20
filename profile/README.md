@@ -114,6 +114,8 @@ Please be aware that, according to the law, "a copyright holder must consider th
 
 > “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984).
 
+The Ninth Circuit held that the Copyright Act "unambiguously contemplates fair use as a use authorized by law," and accordingly, "a copyright holder must consider the existence of fair use before sending a takedown notification under § 512(c)." The Ninth Circuit based its holding on the language of section 107, which provides that "the fair use of a copyrighted work … is not an infringement of copyright," and on definitions of "authorize" (which is not defined in the Copyright Act) from Black's Law Dictionary, concluding that "because 17 U.S.C. § 107 both 'empowers' and 'formally approves' the use of copyrighted material if the use constitutes fair use, fair use is 'authorized by the law' within the meaning of § 512(c)." In so holding, the Ninth Circuit rejected Universal's argument that fair use is merely an affirmative defense to infringement.
+
 Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and, before sending any notification, you must also consider the fair use rights of the developers of the very large number of open source projects that Mageni uses and the impact, possible repercussions and legal consequences of your notification.
 
 #### Designated Agent
