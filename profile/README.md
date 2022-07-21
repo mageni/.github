@@ -140,7 +140,7 @@ Any person who knowingly materially misrepresents under this section
 Mageni publishes open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
 
 ## Export Laws
-This software may be subject to US Export rules known as Export Administration Regulations (EAR) and enforced by U.S. Department of Commerce Bureau of Industry and Security (BIS).
+The software provided by Mageni may be subject to US Export rules known as Export Administration Regulations (EAR) and enforced by U.S. Department of Commerce Bureau of Industry and Security (BIS).
 
 Additionally, both the Department of Treasury and the Department of State regulate and control other types of export-related technology and product transfers and transactions. The Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury administers and enforces economic sanctions against certain countries and regimes, terrorists, and other threats to U.S. national security, foreign policy, or economic interests.
 
