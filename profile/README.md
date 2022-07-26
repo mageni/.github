@@ -94,7 +94,9 @@ Mageni has completed extensive audits to certify that exercises its fair use rig
 
 ### Code is a form of speech
 
-> "This court can find no meaningful difference between computer language, particularly high-level languages as defined above, and German or French....Like music and mathematical equations, computer language is just that, language, and it communicates information either to a computer or to those who can read it....Thus, even if Snuffle source code, which is easily compiled into object code for the computer to read and easily used for encryption, is essentially functional, that does not remove it from the realm of speech....For the purposes of First Amendment analysis, this court finds that source code is speech." (Bernstein v DoS)
+> "This court can find no meaningful difference between computer language, particularly high-level languages as defined above, and German or French....Like music and mathematical equations, computer language is just that, language, and it communicates information either to a computer or to those who can read it....For the purposes of First Amendment analysis, this court finds that source code is speech." (Bernstein v DoS)
+
+Freedom of speech is a principle that supports the freedom of an individual or a community to articulate their opinions and ideas without fear of retaliation, censorship, or legal sanction. The right to freedom of expression has been recognised as a human right in the Universal Declaration of Human Rights and international human rights law by the United Nations. U.S. constitutional law protects free speech.
 
 ### DMCA Policy
 
