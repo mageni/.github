@@ -92,7 +92,7 @@ When using the source code of GPL-covered program, the **GPL grants you "fair us
 
 Mageni has completed extensive audits to certify that exercises its fair use rights as authorized by 17 U.S.C. § 107. 
 
-### Code is a form of speech
+### Code is a form of speech. U.S. constitutional law protects free speech.
 
 > "This court can find no meaningful difference between computer language, particularly high-level languages as defined above, and German or French....Like music and mathematical equations, computer language is just that, language, and it communicates information either to a computer or to those who can read it....For the purposes of First Amendment analysis, this court finds that source code is speech." (Bernstein v DoS)
 
