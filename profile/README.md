@@ -40,7 +40,7 @@ Mageni uses a very large number of open source projects and we thank them with a
 Mageni is an important open source contribution to the upstream projects as it provides a moderm web interface and EDA which was really missing to the open source community.
 
 ## Legal, Copyrights, DMCA, and Fair Use
-You are probably reading this because you want to use the code, but you have questions about its license. The DMCA is a U.S. federal law and the Copyrights is a bundle of statutory rights created by the U.S. Congress. So here is some background information for you to consider from the perspective of U.S. law.
+You are probably reading this because you want to use the code, but you have questions about its license and your legal rights. The DMCA is a U.S. federal law and the Copyrights is a bundle of statutory rights created by the U.S. Congress. So here is some background information for you to consider from the perspective of U.S. law.
 
 ### What's a Copyright?
 Copyright is a bundle of statutory <a href="https://www.law.cornell.edu/uscode/text/17/106">rights</a> created by U.S. Congress.
