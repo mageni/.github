@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Mageni is passionate about solving the world's toughest and most complex problems using open-source. 
+Mageni is passionate about solving the world's toughest and most complex problems using open source. 
 
 ### The Cost of Cybercrime
 
