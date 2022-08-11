@@ -136,13 +136,15 @@ Notification of alleged infringement should be sent to our designated agent. The
 5. A statement by You that You have a good-faith belief that the disputed use has not been authorized; and
 6. A statement by You, made under penalty of perjury, that the information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner's behalf. 
 
+Please send the notification under the DMCA of alleged infringement to this address:
+
 Legal Department<br />
 Mageni Security LLC<br />
 44 South Broadway, STE 100<br />
 White Plains, NY 10601<br />
 Email: opensource@mageni.net
 
-Please send the notification under the DMCA of alleged infringement to the above address. Upon receipt of notification of claimed infringement, we will follow the procedures to comply with the DMCA. Consult your with your lawyers before submitting or sending an email to the above address. The DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. **It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) so submitting false, fraudulent, and or bad faith information could also result in civil liability — that is, you could get sued and you could be fined or imprisoned not more than five years, or both.** The DMCA also provides a remedy for bad-faith takedowns (See 17 U.S.C.A. § 512), specifically:
+Upon receipt of notification of claimed infringement, we will follow the procedures to comply with the DMCA. Consult your with your lawyers before submitting or sending an email to the above address. The DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. **It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) so submitting false, fraudulent, and or bad faith information could also result in civil liability — that is, you could get sued and you could be fined or imprisoned not more than five years, or both.** The DMCA also provides a remedy for bad-faith takedowns (See 17 U.S.C.A. § 512), specifically:
 
 Any person who knowingly materially misrepresents under this section
 
