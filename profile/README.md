@@ -153,6 +153,8 @@ Any person who knowingly materially misrepresents under this section
 
 > **if a copyright holder ignores or neglects our unequivocal holding that it must consider fair use before sending a takedown notification, it is liable for  damages under § 512(f).** A copyright holder who pays  lip service to the consideration of fair use by claiming it formed a good faith belief when there is evidence to the contrary is still subject to §  512(f) liability. Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).
 
+Mageni has completed extensive audits to certify that exercises its fair use rights as authorized by 17 U.S.C. § 107.
+
 ## Applicable Laws
 Mageni publishes open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
 
