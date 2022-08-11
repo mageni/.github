@@ -151,6 +151,8 @@ Any person who knowingly materially misrepresents under this section
 1. that material or activity is infringing, or
 2. that material or activity was removed or disabled by mistake or misidentification, shall be liable for any damages, including costs and attorneys’ fees, incurred by the alleged infringer, by any copyright owner or copyright owner’s authorized licensee, or by a service provider, who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing, or in replacing the removed material or ceasing to disable access to it.
 
+> **if a copyright holder ignores or neglects our unequivocal holding that it must consider fair use before sending a takedown notification, it is liable for  damages under § 512(f).** A copyright holder who pays  lip service to the consideration of fair use by claiming it formed a good faith belief when there is evidence to the contrary is still subject to §  512(f) liability. Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).
+
 ## Applicable Laws
 Mageni publishes open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
 
