@@ -127,7 +127,14 @@ Mageni is lawfully and rightfully exercising its fair use rights as authorized b
 
 #### Designated Agent
 
-Notification of alleged infringement should be sent to our designated agent. Upon receipt of notification of claimed infringement, we will follow the procedures to comply with the DMCA.
+Notification of alleged infringement should be sent to our designated agent. The DMCA requires that notices of alleged infringement include specific information. Please provide the following information:
+
+1. A signature of the person authorized to act on behalf of the owner of the copyright interest; 
+2. A description of the copyrighted work that You claim has been infringed upon;
+3. A description of where the material that You claim is infringing is located on the Site; 
+4. Your address, telephone number, and e-mail address; 
+5. A statement by You that You have a good-faith belief that the disputed use has not been authorized; and
+6. A statement by You, made under penalty of perjury, that the information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner's behalf. 
 
 Legal Department<br />
 Mageni Security LLC<br />
@@ -135,7 +142,7 @@ Mageni Security LLC<br />
 White Plains, NY 10601<br />
 Email: opensource@mageni.net
 
-Please send the notification under the DMCA of alleged infringement to the above address. The DMCA requires that notices of alleged infringement include specific information. Consult your with your lawyers before submitting or sending an email to the above address. The DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. **It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) so submitting false, fraudulent, and or bad faith information could also result in civil liability — that is, you could get sued and you could be fined or imprisoned not more than five years, or both.** The DMCA also provides a remedy for bad-faith takedowns (See 17 U.S.C.A. § 512), specifically:
+Please send the notification under the DMCA of alleged infringement to the above address. Upon receipt of notification of claimed infringement, we will follow the procedures to comply with the DMCA. Consult your with your lawyers before submitting or sending an email to the above address. The DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. **It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) so submitting false, fraudulent, and or bad faith information could also result in civil liability — that is, you could get sued and you could be fined or imprisoned not more than five years, or both.** The DMCA also provides a remedy for bad-faith takedowns (See 17 U.S.C.A. § 512), specifically:
 
 Any person who knowingly materially misrepresents under this section
 
