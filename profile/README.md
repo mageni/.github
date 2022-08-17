@@ -6,7 +6,7 @@
     <b>The modern vulnerability and attack surface management platform</b>
     <br />
     <br />
-    <a href="https://github.com/mageni/mageni"><img width="800" height=auto src="https://www.mageni.net/assets/img/macbook.jpeg" alt="Visit the Mageni repo"></a>
+    <a href="https://github.com/mageni/mageni"><img width="800" height="400" src="https://www.mageni.net/assets/img/macbook.jpeg" alt="Visit the Mageni repo"></a>
 </p>
 
 Mageni is passionate about solving the world's toughest and most complex problems using open source. Where others see problems, we see solutions.
