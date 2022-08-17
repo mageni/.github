@@ -1,38 +1,33 @@
-# Table of Contents
-1. [Introduction](#introduction)
-2. [The Cost of Cybercrime](#the-cost-of-cybercrime)
-3. [What problem does Mageni solve?](#what-problem-does-mageni-solve)
-4. [About Mageni](#about-mageni)
-5. [Mission](#mission)
-6. [Vision](#vision)
-7. [Thank you, open source](#thank-you-open-source)
-8. [Legal, Copyrights, DMCA, and Fair Use](#legal-copyrights-dmca-and-fair-use)
-9. [Export Laws](#export-laws)
-
-## Introduction
+<br />
+<p align="center">
+    <a href="https://www.mageni.net" target="_blank"><img width="260" height="69" src="https://www.mageni.net/assets/img/mageni.svg" alt="Appwrite Logo"></a>
+    <br />
+    <br />
+    <b>The modern vulnerability and attack surface management platform</b>
+    <br />
+    <br />
+    <a href="https://github.com/mageni/mageni"><img width="800" height=auto src="https://www.mageni.net/assets/img/macbook.jpeg" alt="Visit the Mageni repo"></a>
+</p>
 
 Mageni is passionate about solving the world's toughest and most complex problems using open source. Where others see problems, we see solutions.
 
-### The Cost of Cybercrime
+<h2>Learn About Mageni 🧑‍🎓</h2>
 
-If it were measured as a country, then cybercrime — which is predicted to inflict damages totaling $10.5 trillion USD globally in 2025 — would be the world’s third-largest economy after the U.S. and China (Cybersecurity Ventures). 
+<ul>
+    <li>Learn how to get started with Mageni through the <a href="https://www.mageni.net/docs">Mageni Docs</a> 📚 </li>
+</ul>
 
-### What problem does Mageni solve?
+<h2>Connect With Us 🍿</h2>
+<ul>
+    <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 🖥️</li>
+    <li>Follow us on <a href="https://twitter.com/magenisecurity">Twitter</a> 🐤</li>
+</ul>
 
-- **Unpatched and exposed services** account for 82% of successful attack (Tetra Defense)
-- 60% of breach victims were breached due to an **unpatched known vulnerability** (Ponemom Institute)
-- 62% were **unaware that they were vulnerable** prior to the data breach (Ponemom Institute)
-- $4.24 million cost per **data breach** on average; highest in 17-year report history (IBM)
+<h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
 
-### About Mageni
-
-Mageni provides a free and open-source vulnerability scanner full of delightful features. We believe cybersecurity must be an enjoyable and uplifting experience to be truly fulfilling in your life. Mageni empowers you to identify, prioritize, and respond to vulnerabilities, risky services and misconfigurations before they are exploited by hackers. 
-
-### Mission
-Mageni's mission is to make your life more enjoyable and peaceful by providing you with a wonderful vulnerability management platform that helps you to avoid becoming a victim of cybercrime.
-
-### Vision
-We envision a world where cybersecurity and vulnerability management is an enjoyable and uplifting experience that is truly fulfilling in your life.
+<details> 
+	<summary>👓 Read this section if your have questions or inquiries about Legal, Copyrights, our DMCA Designated Agent, and Fair Use</summary>
+	<br>
 
 ## Thank you, open source
 Mageni uses a very large number of open source projects and we thank them with all our hearts. We hope that providing Mageni as an free, open source project will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. We also hope that this software will help to reduce cybercrime and to protect others from cyber threats.
@@ -167,3 +162,5 @@ It is Mageni policy to comply with EAR, OFAC rules, and the international Wassen
 
 ## Mageni helps to reduce climate change
 Mageni is a member of the <a href="https://climate.stripe.com/nJ22UV" target="_blank">Stripe Climate</a> and contributes 1% of the revenue to reduce climate change.
+
+</details>
