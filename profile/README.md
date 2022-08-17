@@ -1,12 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://www.mageni.net" target="_blank"><img width="260" height="69" src="https://www.mageni.net/assets/img/mageni.svg" alt="Appwrite Logo"></a>
-    <br />
-    <br />
-    <b>The modern vulnerability and attack surface management platform</b>
-    <br />
-    <br />
-    <a href="https://github.com/mageni/mageni"><img width="800" height="400" src="https://www.mageni.net/assets/img/macbook.jpeg" alt="Visit the Mageni repo"></a>
+    <a href="https://www.mageni.net" target="_blank"><img width="260" height="69" src="https://www.mageni.net/assets/img/mageni.svg" alt="Mageni Logo"></a>
 </p>
 
 Mageni is passionate about solving the world's toughest and most complex problems using open source. Where others see problems, we see solutions.
