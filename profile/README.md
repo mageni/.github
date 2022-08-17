@@ -25,8 +25,10 @@ Mageni is passionate about solving the world's toughest and most complex problem
 
 <h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
 
+<b>Do you have questions or inquiries about Legal, Copyrights, our DMCA Designated Agent, and Fair Use? Then read the legal section</b> 👇
+
 <details> 
-	<summary>👓 Read this section if your have questions or inquiries about Legal, Copyrights, our DMCA Designated Agent, and Fair Use</summary>
+	<summary>👓 Legal, License, DMCA, and Copyrights </summary>
 	<br>
 
 ## Thank you, open source
