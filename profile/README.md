@@ -30,7 +30,7 @@ Are you a copyright holder? Do you have questions or inquiries about Legal, Copy
 With that clear, please read the legal section 👇
 
 <details> 
-	<summary>👮‍♀ Legal, License, DMCA, and Copyrights </summary>
+	<summary>👮‍♀ Legal, License, Export, DMCA, and Copyrights</summary>
 	<br>
 
 ## Thank you, open source
