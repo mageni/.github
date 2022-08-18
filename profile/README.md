@@ -3,7 +3,7 @@
     <a href="https://www.mageni.net" target="_blank"><img width="260" height="69" src="https://www.mageni.net/assets/img/mageni.svg" alt="Mageni Logo"></a>
 </p>
 
-Mageni is passionate about solving the world's toughest and most complex problems using open source. Where others see problems, we see solutions.
+Mageni is passionate about solving the world's toughest and most complex problems using open source.
 
 <h2>Learn About Mageni 🧑‍🎓</h2>
 
