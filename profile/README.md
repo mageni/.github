@@ -38,7 +38,7 @@ Mageni uses <a href="https://github.com/mageni/mageni/network/dependencies">thou
 
 Mageni is an important open source contribution to the upstream projects as it provides a moderm web interface and EDA which was really missing to the open source community.
 
-## Legal, Copyrights, DMCA, and Fair Use
+## Summary
 You are probably reading this because you want to use the code, but you have questions about its license and your legal rights. The DMCA is a U.S. federal law and the Copyrights is a bundle of statutory rights created by the U.S. Congress. So here is some background information for you to consider from the perspective of U.S. law.
 
 ### What's a Copyright?
