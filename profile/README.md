@@ -21,7 +21,7 @@ Mageni is passionate about solving the world's toughest and most complex problem
 
 Are you a copyright holder? Do you have questions or inquiries about Legal, Copyrights, our DMCA Designated Agent, and Fair Use? Then read the legal section and learn how Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights 🎉
 
-<b>Note:</b>  If you want to send a DMCA takedown notification
+<b>Note:</b>  If you would like to send a DMCA takedown notification
 
 1. **The GPL grants us "fair use" rights** and
 2. "**If a copyright holder ignores or neglects our unequivocal holding that it must consider fair use before sending a takedown notification, it is liable for damages** under § 512(f). A copyright holder who pays lip service to the consideration of fair use by claiming it formed a good faith belief when there is evidence to the contrary is still subject to § 512(f) liability. Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016) and 
