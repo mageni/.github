@@ -88,8 +88,6 @@ When using the source code of GPL-covered program, the **GPL grants you "fair us
 
 > “[A]nyone who . . . makes a fair use of the work is not an infringer of the copyright with respect to such use.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984).
 
-Mageni has completed extensive audits to certify that exercises its fair use rights as authorized by 17 U.S.C. § 107. 
-
 ### Code is a form of speech. In the US, constitutional law protects free speech.
 
 > "This court can find no meaningful difference between computer language, particularly high-level languages as defined above, and German or French....Like music and mathematical equations, computer language is just that, language, and it communicates information either to a computer or to those who can read it....For the purposes of First Amendment analysis, this court finds that source code is speech." (Bernstein v DoS)
@@ -150,8 +148,6 @@ Any person who knowingly materially misrepresents under this section
 2. that material or activity was removed or disabled by mistake or misidentification, shall be liable for any damages, including costs and attorneys’ fees, incurred by the alleged infringer, by any copyright owner or copyright owner’s authorized licensee, or by a service provider, who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing, or in replacing the removed material or ceasing to disable access to it.
 
 > **if a copyright holder ignores or neglects our unequivocal holding that it must consider fair use before sending a takedown notification, it is liable for  damages under § 512(f).** A copyright holder who pays  lip service to the consideration of fair use by claiming it formed a good faith belief when there is evidence to the contrary is still subject to §  512(f) liability. Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).
-
-Mageni has completed extensive audits to certify that exercises its fair use rights as authorized by 17 U.S.C. § 107.
 
 ## Applicable Laws
 Mageni publishes open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
