@@ -16,6 +16,9 @@ Mageni is passionate about solving the world's toughest and most complex problem
     <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 👩‍💻</li>
 </ul>
 
+<h2>Mageni helps reduce climate change 🌱</h2>
+Mageni is a member of the <a href="https://climate.stripe.com/nJ22UV" target="_blank">Stripe Climate</a> and contributes 1% of the revenue to reduce climate change.
+
 <h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
 
 On the legal section you will learn how Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights.
@@ -158,8 +161,5 @@ The software provided by Mageni may be subject to US Export rules known as Expor
 Additionally, both the Department of Treasury and the Department of State regulate and control other types of export-related technology and product transfers and transactions. The Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury administers and enforces economic sanctions against certain countries and regimes, terrorists, and other threats to U.S. national security, foreign policy, or economic interests.
 
 It is Mageni policy to comply with EAR, OFAC rules, and the international Wassenaar Arrangement. Without limitation, parties using software from Mageni are responsible for obtaining all licenses or other approvals necessary for downloading or transfer of the software or use of the service. A party may not transfer the software or services without U.S. Government permission to (a) anyone on the U.S. Treasury Department’s lists of Specially Designated Nationals (including the Government of Iran, Government of Cuba, prohibited members of the Cuban Communist Party), or on the U.S. Commerce Department’s Denied Persons List, Entity List, or Unverified List, or on the U.S. State Department’s Debarred List or Nonproliferation List (see Commerce Lists to Check); or (b) for use with chemical or biological weapons, sensitive nuclear end-users, or missiles to deliver them.
-
-## Mageni helps to reduce climate change
-Mageni is a member of the <a href="https://climate.stripe.com/nJ22UV" target="_blank">Stripe Climate</a> and contributes 1% of the revenue to reduce climate change.
 
 </details>
