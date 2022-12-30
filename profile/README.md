@@ -16,9 +16,6 @@ Mageni is where I, Jonathan Jaquez, love open-source security tools and provide 
     <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 👩‍💻</li>
 </ul>
 
-<h2>Mageni helps reduce climate change 🌱</h2>
-Mageni is a member of the <a href="https://climate.stripe.com/nJ22UV" target="_blank">Stripe Climate</a> and contributes 1% of the revenue to reduce climate change.
-
 <h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
 
 On the legal section you will learn how Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights.
