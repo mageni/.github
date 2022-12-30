@@ -3,7 +3,7 @@
     <a href="https://www.mageni.net" target="_blank"><img width="260" height="69" src="https://www.mageni.net/assets/img/mageni.svg" alt="Mageni Logo"></a>
 </p>
 
-Mageni is where I, Jonathan Jaquez, love open-source security tools and provide them for free. 
+Mageni is the space and place where I, Jonathan Jaquez, love open-source security tools and provide them for free. 
 
 <h2>Learn About Mageni 🧑‍🎓</h2>
 
