@@ -3,7 +3,7 @@
     <a href="https://www.mageni.net" target="_blank"><img width="260" height="69" src="https://www.mageni.net/assets/img/mageni.svg" alt="Mageni Logo"></a>
 </p>
 
-Mageni is the space and place where I, Jonathan Jaquez, love open-source security tools and provide them for free. 
+Mageni is the space and place where I, Jonathan Jaquez, love open-source security tools and provide them for free. Mageni comes from the Hebrew word (מָגֵן) which means "Shield" and "Defender" and in Japanese comes from the word Mugen (無限) which means Unlimited, Endless and Limitless.
 
 <h2>Learn About Mageni 🧑‍🎓</h2>
 
