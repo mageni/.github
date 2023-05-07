@@ -3,7 +3,7 @@
     <a href="https://www.mageni.net" target="_blank"><img width="260" height="69" src="https://www.mageni.net/assets/img/mageni.svg" alt="Mageni Logo"></a>
 </p>
 
-Mageni is the space and place where I, Jonathan Jaquez, love open-source security tools and provide them for free. Mageni comes from the Hebrew word (מָגֵן) which means "Shield" and "Defender" and in Japanese comes from the word Mugen (無限) which means Unlimited, Endless and Limitless.
+Mageni is the playground and place where I, Jonathan Jaquez, love open-source security tools and provide them for free. Mageni comes from the Hebrew word (מָגֵן) which means "Shield" and "Defender" and in Japanese comes from the word Mugen (無限) which means Unlimited, Endless and Limitless.
 
 <h2>Learn About Mageni 🧑‍🎓</h2>
 
@@ -18,7 +18,7 @@ Mageni is the space and place where I, Jonathan Jaquez, love open-source securit
 
 <h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
 
-On the legal section you will learn how Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights.
+Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights.
 
 <b>Note:</b>  If you would like to send a DMCA takedown notification
 
