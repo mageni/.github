@@ -3,7 +3,7 @@
     <a href="https://www.mageni.net" target="_blank"><img width="260" height="69" src="https://www.mageni.net/assets/img/mageni.svg" alt="Mageni Logo"></a>
 </p>
 
-Mageni is now an empirical research center with educational and non-profit (non-commercial) purposes, and it is also the open-source playground where I, Jonathan Jaquez, conduct empirical security research and create open-source tools to provide them for free. Mageni comes from the Hebrew word (מָגֵן), which means "Shield" and "Defender," and in Japanese comes from the word Mugen (無限), which means Unlimited, Endless, and Limitless. Therefore, one of Mageni's intentions is not to compete with other open-source projects or commercial tools. 
+Mageni is now an experimental and empirical security research laboratory with educational and non-profit (non-commercial) purposes, and it is also the open-source playground where I, Jonathan Jaquez, conduct experimental and empirical security research and create open-source tools to provide them for free. Mageni comes from the Hebrew word (מָגֵן), which means "Shield" and "Defender," and in Japanese comes from the word Mugen (無限), which means Unlimited, Endless, and Limitless. Therefore, one of Mageni's intentions is not to compete with other open-source projects or commercial tools. 
 
 <h2>Learn About Mageni 🧑‍🎓</h2>
 
